@@ -31,7 +31,7 @@
 #define LOST_W	-999
 #define WON_W	999
 
-static const char pogo_version[] = "@VER@";
+static const char pogo_version[] = "0.1";
 
 int max_deep[3] = { 5, 8, 10 };
 
